@@ -50,4 +50,6 @@ Original Total: 3765
 Estimated Accuracy: 3683/3675 = 97.82%
 
 # Screenshot of Output Data
-![Excel Data](./screenshots/data.png)
+<img src='./screenshots/transport.png' alt='Transportation' width='90%' />
+<img src='./screenshots/electronics.png' alt='Electronics' width='90%' />
+<img src='./screenshots/jewelry.png' alt='Jewelry' width='90%' />
