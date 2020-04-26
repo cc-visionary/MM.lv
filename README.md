@@ -38,9 +38,9 @@ Note:
 
 
 # Screenshot of Website
-<img src='./screenshots/eng.png' alt='Engish' width='45%' />
-<img src='./screenshots/lv.png' alt='Latvian' width='45%' />
-<img src='./screenshots/ru.png' alt='Russian' width='45%' />
+<img src='./screenshots/eng.png' alt='Engish' width='90%' />
+<img src='./screenshots/lv.png' alt='Latvian' width='90%' />
+<img src='./screenshots/ru.png' alt='Russian' width='90%' />
 
 # Output Data Specifications
 |                      |    Amount   |
