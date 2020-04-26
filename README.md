@@ -36,6 +36,12 @@ Note:
     - ccccc   - orange
 - Data is a array of dict containing the following: en: , ru: , lv: , parent: , link:
 
+
+# Screenshot of Website
+<img src='./screenshots/eng.png' alt='Engish' width='45%' />
+<img src='./screenshots/lv.png' alt='Latvian' width='45%' />
+<img src='./screenshots/ru.png' alt='Russian' width='45%' />
+
 # Output Data Specifications
 |                      |    Amount   |
 |----------------------|-------------|
